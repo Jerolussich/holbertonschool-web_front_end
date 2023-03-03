@@ -223,7 +223,7 @@ a:active {
 }
 
 .section {
-        padding: var(--section-pading);
+        padding: var(--section-padding);
 }
 .section-header {
                 text-align: var(--section-header-align);
